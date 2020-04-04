@@ -1,4 +1,4 @@
-# GIT file Example
+# drad26-git-example2
 
 This is a Paragraph
 
